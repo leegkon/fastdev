@@ -5,6 +5,7 @@
 * https://github.com/dotnetcore/WTM 
 * https://github.com/i66soft/osharp 
 * https://github.com/cq-panda/Vue.NetCore 主从表结构，高级查询，及数据库快速构造表单很不错
+* https://gitee.com/LongbowEnterprise/BootstrapAdmin 
 
 ## 后台计划任务
 
