@@ -11,6 +11,9 @@
 
 * https://github.com/cq-panda/Quartz.NetUI
 
+## 工作流
+
+* https://github.com/elsa-workflows/elsa-core
 
 ## 辅助工具
 * [cron表达式生成](http://cron.qqe2.com/)  http://cron.qqe2.com/
