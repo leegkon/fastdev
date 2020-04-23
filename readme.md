@@ -15,6 +15,7 @@
 ## 工作流
 
 * https://github.com/elsa-workflows/elsa-core
+* https://github.com/aelassas/Wexflow
 
 ## 辅助工具
 * [cron表达式生成](http://cron.qqe2.com/)  http://cron.qqe2.com/
