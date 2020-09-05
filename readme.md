@@ -3,7 +3,7 @@
 * https://github.com/Coldairarrow/Colder.Admin.AntdVue
 * https://gitee.com/yubaolee/OpenAuth.Core
 * https://github.com/dotnetcore/WTM 
-* https://github.com/i66soft/osharp 
+* https://github.com/i66soft/osharp 包含审计框架
 * https://github.com/cq-panda/Vue.NetCore 主从表结构，高级查询，及数据库快速构造表单很不错
 * https://gitee.com/LongbowEnterprise/BootstrapAdmin 
 * https://github.com/liukuo362573/YiShaAdmin
