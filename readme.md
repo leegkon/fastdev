@@ -28,6 +28,12 @@
 * https://github.com/langhuihui/monibuca Go语言实现流媒体服务器
 * https://github.com/langhuihui/jessibuca H5播放器
 * https://github.com/chatop2020/StreamNode-GB28181   ZLMediaKit的流媒体控制管理接口平台，支持RTSP,GB28181的设备拉流与推流控制
+* https://github.com/GB28181/Awesome  GB28181开源收集列表
+* https://github.com/GB28181/GB28181_ServerPlatform   国标平台测试软件，支持下联和上联，支持GB/T 28181-2011和GB/T 28181-2016
+* https://github.com/mackenbaron/Gb28181_Platform 28181下级平台接入开发，成功接入海康，大华，宇视，科达，公安平台基于2011版
+* https://github.com/GB28181/GB28181.Solution  GB28181/SIP/RTP/SDP/WebRTC/作为上下级域  .net core 3.1  28181-2016
+* https://github.com/unitycs/GB28181Platform   C++版本  28181-2016
+
 
 ### 第三方实验平台 车载1078
 * http://47.100.112.218:8800/d?c=l   车辆动态监控系统(泉州市领新信息) 用户/密码 admin/123456
