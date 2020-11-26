@@ -36,5 +36,6 @@
 
 
 ### 第三方实验平台 国标GB28181
+----
 * http://182.92.206.101:26088 （兼容GB28181-2011和GB28181-2016） 用户/密码 admin/123456
-* http://demo.easygbs.com:10000/login.html  easyGBS 免密登录，可现在独立部署
+* http://demo.easygbs.com:10000/login.html  easyGBS 免密登录，可下载独立部署
