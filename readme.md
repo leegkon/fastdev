@@ -44,7 +44,7 @@
 * http://47.100.112.218:8800/d?c=l   车辆动态监控系统(泉州市领新信息) 用户/密码 admin/123456
 * https://iov.legaoyi.com/#/login   广西乐高易网络  无密码登录 
 * http://www.liveoss.com/    jt1078部标车载视频平台  用户名密码 admin/123456
-
+* https://github.com/SmallChi/JT1078  JT1078协议、GB1078协议、道路运输车辆卫星定位系统-视频通讯协议
 
 ### 第三方实验平台 国标GB28181
 ----
